@@ -1,6 +1,7 @@
 # Aoidos-2.1-Hybrid-Language-Decision-Intelligence-System
 Developed By Oblivion
-<img width="1672" height="941" alt="file_00000000316481f4974c2116571ac700" src="https://github.com/user-attachments/assets/8bebe216-c498-4296-a29b-250d3deb1f5c" />
+<img width="1672" height="940" alt="۱۲۴۵۶۷۸" src="https://github.com/user-attachments/assets/b1a12045-7a52-4c56-a379-1b6d39bef8d1" />
+
 AOIDOS 2.1
 HYBRID LANGUAGE–DECISION INTELLIGENCE SYSTEM
 
